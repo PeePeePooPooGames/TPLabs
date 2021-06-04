@@ -1,0 +1,15 @@
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.deps.json
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.runtimeconfig.json
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.runtimeconfig.dev.json
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.dll
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\bin\Debug\netcoreapp3.1\lr13.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.Form1.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.AssemblyInfo.cs
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.dll
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr13\obj\Debug\netcoreapp3.1\lr13.genruntimeconfig.cache
