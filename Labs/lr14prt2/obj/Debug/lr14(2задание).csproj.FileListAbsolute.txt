@@ -1,0 +1,10 @@
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\bin\Debug\lr14(2задание).exe.config
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\bin\Debug\lr14(2задание).exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\bin\Debug\lr14(2задание).pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14(2задание).csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14_2задание_.Form1.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14_2задание_.Properties.Resources.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14(2задание).csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14(2задание).csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14(2задание).exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr14(2задание)\obj\Debug\lr14(2задание).pdb

@@ -1,0 +1,10 @@
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\bin\Debug\lr15.exe.config
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\bin\Debug\lr15.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\bin\Debug\lr15.pdb
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.Form1.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.Properties.Resources.resources
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.csproj.GenerateResource.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.exe
+C:\Users\Danil\Desktop\СКФУ\2курс\4 семестр\ТП\lr15\obj\Debug\lr15.pdb
